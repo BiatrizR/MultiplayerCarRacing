@@ -19,5 +19,5 @@
 
 ## about game
  > Control the players with the directional arrows;
--
+> 
  > reach the end without losing life or fuel;
