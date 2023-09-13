@@ -21,3 +21,15 @@
  > Control the players with the directional arrows;
 > 
  > reach the end without losing life or fuel;
+>
+# Desafio de atualização: ✔
+ - Modificar as imagens da caixa de diálogo;
+    - ajustar tamanho caso necessário.
+ - Modificar texto das caixa de diálogo
+# atualização opcional ✔
+1. Uso das bibliotecas de som
+   - funções: loadSound(), play() e stop()
+    - sons de colisão;
+    - up level
+    - lose sound
+3. GameOver para fim de combustível
