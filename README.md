@@ -22,6 +22,7 @@
 > 
  > reach the end without losing life or fuel;
 >
+##
 # Desafio de atualização: ✔
  - Modificar as imagens da caixa de diálogo;
     - ajustar tamanho caso necessário.
